@@ -1,8 +1,7 @@
 2024-12-28 12:38
 
-Status: #doing 
 
-Tags: [[Maths for data science 1]] [[iitm]] [[numbers]]  [[set]]
+Tags: [[Maths for data science 1]]  [[Sets]]
 
 # Number System
 We use Numbers for helping us in counting like 1,2,3,4 and 0 for nothing 
@@ -23,6 +22,8 @@ factors occur in pairs until a number is no is perfect square so lest take 16
 
 ## ![[Prime Numbers]]
 ## ![[Rational Numbers]]
+# Greatest common divisor
+The greatest common divisor (GCD) of two or more numbers is the greatest common factor number that divides them, exactly. It is also called the [highest common factor (HCF)](https://byjus.com/maths/hcf/). For example, the greatest common factor of 15 and 10 is 5, since both the numbers can be divided by 5.
 
 ##  ![[Real and Complex and Numbers]]
 
