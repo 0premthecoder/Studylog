@@ -1,0 +1,1 @@
+We can't tell what could be next no 

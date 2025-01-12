@@ -26,7 +26,7 @@ factors occur in pairs until a number is no is perfect square so lest take 16
 The greatest common divisor (GCD) of two or more numbers is the greatest common factor number that divides them, exactly. It is also called the [highest common factor (HCF)](https://byjus.com/maths/hcf/). For example, the greatest common factor of 15 and 10 is 5, since both the numbers can be divided by 5.
 
 ##  ![[Real and Complex and Numbers]]
-
+[[Irrational Numbers]]
 
 ## References
 https://youtu.be/WEC6jPWvoj8?list=PLZ2ps__7DhBbWJi0MKTOAj1ExFoSRrKuV
