@@ -24,8 +24,6 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   afterBody: [
     Component.MobileOnly(Component.Explorer()),
-    
-    Component.Graph(),
   ],
   left: [
     Component.PageTitle(),
@@ -35,7 +33,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Backlinks(),
+    Component.Graph(),
+    Component.DesktopOnly(Component.Backlinks()),
     Component.DesktopOnly(Component.TableOfContents()),
   ],
 }
