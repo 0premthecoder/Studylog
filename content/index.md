@@ -9,9 +9,3 @@ Subjects:
 [[English 01]]
 
 [[Computational Thinking]]
-
-
-npx quartz sync --no-pull
-https://studylog-blue.vercel.app/
-
-https://www.youtube.com/watch?v=xzk_DgJSEE0
