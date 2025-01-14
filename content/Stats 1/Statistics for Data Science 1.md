@@ -1,13 +1,7 @@
-lec 1: https://youtu.be/0w2rKt-G6ws
-
-Topics
+# Topics
 
 [[Statistics]]
 
-[[inferential statistics]]
+[[Introduction and types of Data - Understanding data]]
 
-[[Discrete Statistics]]
-
-[[Sample]]
-
-[[Population]]
+[[Introduction and types of Data - Classification of data]]

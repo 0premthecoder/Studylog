@@ -1,0 +1,1 @@
+Floats is [[Data types]] used to represents Decimal Points

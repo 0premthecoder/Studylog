@@ -1,0 +1,1 @@
+These are the points on number lines which is used as starting and ending points for an [[Intervals]] 

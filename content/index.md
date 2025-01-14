@@ -6,6 +6,10 @@ Subjects:
 
 [[Statistics for Data Science 1]]
 
+[[English 01]]
+
+[[Computational Thinking]]
+
 
 npx quartz sync --no-pull
 https://studylog-blue.vercel.app/

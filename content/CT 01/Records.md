@@ -1,0 +1,1 @@
+It is just like a Objects in OOPS 
