@@ -13,12 +13,12 @@ Data Type tells the computer or a human to Know how we are intending to use data
 - Range, Operators Which will be done on it etc.
 
 # Simple Datatypes
-[[Boolean]]
-[[Integers]]
-[[Characters]]
-updated on: Jan 13, 2025, Mon, 8:27 PM
-[[Strings]] 
-[[Floats]]
+- [[Boolean]]
+- [[Integers]]
+- [[Characters]]
+
+- [[Strings]] 
+- [[Floats]]
 
 
 # Complex Data types
