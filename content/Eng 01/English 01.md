@@ -1,3 +1,5 @@
+Week 1 finished
+
 lec 01: https://youtu.be/DgKYu1pi3qg
 
 Topics:

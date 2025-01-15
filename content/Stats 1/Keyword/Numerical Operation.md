@@ -1,0 +1,1 @@
+The Simple Maths Operations That can be performed on [[Integers]]
