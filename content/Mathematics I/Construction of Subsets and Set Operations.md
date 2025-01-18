@@ -14,8 +14,7 @@ e.g {x | x $\in$ $\mathbb{Z}$, x mod 2 = 0}-> {2,4,6,..} is a set of All even nu
 [[Intersections]]
 [[Set Difference]]
 [[Complements]]
-
-
+[[Cartesian Product]]
 
 # Reference
 https://youtu.be/Ue3y-OE_2lE

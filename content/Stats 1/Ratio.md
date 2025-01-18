@@ -1,4 +1,4 @@
 Having Properties of [[Interval]] 
-- Ration have meaningfull measure
+- Ratio have meaningful measure
 - Can Perform [[Numerical Operation]] Add , Sub, Multiply, Divide also
 e.g Height, Marks, age etc
