@@ -1,4 +1,4 @@
-Week 1 finished
+Week 1 finished Grade: 90 9/10
 
 lec 01: https://youtu.be/DgKYu1pi3qg
 
@@ -18,3 +18,4 @@ lec 03: https://youtu.be/MMBrfQC0V9A
 
 Topics: 
 [[Speech Sounds in English]]
+
